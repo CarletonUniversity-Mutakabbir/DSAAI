@@ -2,7 +2,7 @@
 
 This repository contains information to help guide students in the DSAAI Ph.D. program at Carleton University.
 
-Office links related to the DSAAI program as of writing can be found [*here!*](https://github.com/CarletonUniversity-Mutakabbir/DSAAI/new/main?filename=README.md#official-links)
+Office links related to the DSAAI program as of writing can be found [*here!*](https://github.com/CarletonUniversity-Mutakabbir/DSAAI/tree/main?tab=readme-ov-file#official-links)
 
 This is meant to act as a TLDR version of the official links
 
